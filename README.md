@@ -11,7 +11,7 @@
 
    <br/>
 <p align="center"><sub><a href="https://rentry.co/ywnwoah">rentry</a>  ⠀<a href="https://ywn.atabook.org">ata</a>  ⠀<a href="https://dukedude.straw.page">straw</a></sub></p>
-<p align="center"><a href="https://guns.lol/yourscruelly">˚ʚ♡ɞ˚</a></p>
+<p align="center"><a href="https://guns.lol/yourscruelly">˚ʚ♡ɞ˚</a>  ⠀<a href="https://canis-canem-edit.straw.page">.ᐟ.ᐟ</a>  ⠀<a href="https://rentry.co/canis-canem-edit">⋆｡°✩</a></p>
 <p align="center"></p>
 <br/>
 
