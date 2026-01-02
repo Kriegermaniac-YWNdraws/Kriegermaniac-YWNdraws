@@ -10,7 +10,7 @@
 <summary></summary>
 
    <br/>
-<p align="center"><sub><a href="https://rentry.co/ywnwoah">rentry</a>  ⠀<a href="https://ywn.atabook.org">ata</a>  ⠀<a href="https://dukedude.straw.page">straw</a></sub>  ⠀<a href="[https://ywn.atabook.org](https://gunsdontkillpeople.carrd.co)">carrd</a></p>
+<p align="center"><sub><a href="https://rentry.co/ywnwoah">rentry</a>  ⠀<a href="https://ywn.atabook.org">ata</a>  ⠀<a href="https://dukedude.straw.page">straw</a></sub>  ⠀<a href="https://gunsdontkillpeople.carrd.co">carrd</a></p>
 <p align="center"><a href="https://guns.lol/yourscruelly">Ⅰ .</a>  ⠀<a href="https://canis-canem-edit.straw.page">Ⅱ .</a>  ⠀<a href="https://rentry.co/canis-canem-edit">Ⅲ .</a></p>
 <p align="center"></p>
 <br/>
