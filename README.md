@@ -1,11 +1,11 @@
 <p align="center">
-  <img width="950" height="323" alt="thehappydictator" src="https://github.com/user-attachments/assets/14bfd313-c030-47ca-9490-cd1b5a073c3e" />
+  <img width="550" height="223" alt="thehappydictator" src="https://github.com/user-attachments/assets/14bfd313-c030-47ca-9490-cd1b5a073c3e" />
 </p>
 <p align="center">
-  <img width="684" height="629" alt="thehappydictatorico" src="https://github.com/user-attachments/assets/a0b82f8d-2580-4e69-b7b4-30bb785a96d0" />
+  <img width="304" height="309" alt="thehappydictatorico" src="https://github.com/user-attachments/assets/a0b82f8d-2580-4e69-b7b4-30bb785a96d0" />
 </p>
 <p align="center">
-  <img width="626" height="99" alt="thehappydictatoryay" src="https://github.com/user-attachments/assets/989943c0-b61b-4b58-9d03-397d06d3ac6f" />
+  <img width="526" height="199" alt="thehappydictatoryay" src="https://github.com/user-attachments/assets/989943c0-b61b-4b58-9d03-397d06d3ac6f" />
 </p>
 
 
