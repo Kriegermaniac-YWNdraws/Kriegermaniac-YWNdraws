@@ -1,5 +1,5 @@
 <p align="center">
-Reworking soon ...
+Reworking soon ... ( including rentry and strawpage )
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Reworking soon ...
 <summary></summary>
 
    <br/>
-<p align="center">⠀<a href="https://ywn.atabook.org">ata</a>  ⠀<a href="https://dukedude.straw.page">straw</a>  ⠀<a href="https://gunsdontkillpeople.carrd.co">carrd</a></sub></p>
+<p align="center">⠀<a href="https://ywn.atabook.org">ata</a>  ⠀  ⠀<a href="https://gunsdontkillpeople.carrd.co">carrd</a></sub></p>
 <p align="center"><a href="https://guns.lol/yourscruelly">Ⅰ .</a>  ⠀<a href="https://canis-canem-edit.straw.page">Ⅱ .</a>  ⠀<a href="https://rentry.co/canis-canem-edit">Ⅲ .</a></p>
 <p align="center"></p>
 <br/>
