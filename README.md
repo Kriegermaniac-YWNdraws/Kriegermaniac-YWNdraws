@@ -22,11 +22,6 @@ Reworking soon ...
 </details>
 </br>
 
-<p align="center">
- <sub>pfp by : https://x.com/woogiez_art</sub> </br>
- <sub>icon by : https://tomatoscribbles.tumblr.com </sub>
-</p>
-
   
 </p><br/>
 <br/>
