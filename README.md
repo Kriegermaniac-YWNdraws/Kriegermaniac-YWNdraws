@@ -1,9 +1,9 @@
 <p align="center">
-<img width="278" height="576" alt="by: tomatoscribbles on tumblr" src="https://github.com/user-attachments/assets/de4839e1-5582-4fc6-9e61-ec6ab7c78fc6" />
+Reworking soon ...
 </p>
 
 <p align="center">
- <sub>Atlas he / him</br>
+ <sub>Faust he / him</br>
  <sub>08.19.'07. </sub>
 </p>
 
